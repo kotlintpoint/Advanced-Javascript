@@ -1,0 +1,29 @@
+{
+    "questions":[
+        {
+            "title":"Name",
+            "name":"name",
+            "type":"text"
+        },
+        {
+            "title":"Birth Date",
+            "name":"birthdate",
+            "type":"date"
+        },
+        {
+            "title":"Age",
+            "name":"age",
+            "type":"number"
+        },
+        {
+            "title":"Blood Group",
+            "name":"bloodgroup",
+            "type":"text"
+        },
+        {
+            "title":"Birth Place",
+            "name":"birthplace",
+            "type":"text"
+        }
+    ]
+}
